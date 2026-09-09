@@ -1,44 +1,22 @@
-<!-- ====================================================== -->
-<!--                  FACUNDO SOLIS README                  -->
-<!-- ====================================================== -->
-
 <div align="center">
 
-<img src="./assets/banner-ai.png" width="100%" />
+<img src="./assets/banner-arcade.png" width="100%" alt="Facundo Solis — Full-Stack AI Engineer" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=%3E+PLAYER+1+CONNECTED...;%3E+FULL-STACK+AI+ENGINEER;%3E+BUILDING+WITH+CODE+%2B+AI;%3E+TURNING+IDEAS+INTO+REAL+PRODUCTS;%3E+READY+PLAYER+ONE%3F" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2600&pause=850&color=00F7FF&center=true&vCenter=true&width=950&lines=%3E+PLAYER+1+CONNECTED...;%3E+FULL-STACK+AI+ENGINEER;%3E+BUILDING+WITH+CODE+%2B+AI;%3E+SAAS+%2F+WEB+%2F+MOBILE+%2F+AUTOMATION;%3E+READY+FOR+THE+NEXT+QUEST%3F" alt="Typing intro" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PLAYER-FACUNDO_SOLIS-00F7FF?style=for-the-badge&labelColor=090909" />
-<img src="https://img.shields.io/badge/CLASS-FULL--STACK_AI_ENGINEER-FF00FF?style=for-the-badge&labelColor=090909" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=090909" />
+<img src="https://img.shields.io/badge/PLAYER-FACUNDO_SOLIS-00F7FF?style=for-the-badge&labelColor=070B17" />
+<img src="https://img.shields.io/badge/CLASS-FULL--STACK_AI_ENGINEER-FF00FF?style=for-the-badge&labelColor=070B17" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=070B17" />
 
 </div>
 
----
+<br>
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║                        🎮 PLAYER PROFILE                             ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  PLAYER       Facundo Ezequiel Solis                                 ║
-║  CLASS        Full-Stack AI Engineer                                 ║
-║  ORIGIN       🇦🇷 Argentina                                           ║
-║  LOCATION     🇪🇸 Spain                                               ║
-║                                                                      ║
-║  SPECIALTY    SaaS · AI · Web · Mobile · Automation                  ║
-║  MISSION      Turn ideas into scalable digital products              ║
-║                                                                      ║
-║  STATUS       ● ONLINE                                               ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<img src="./assets/player-hud.svg" width="100%" alt="Player profile" />
 
 <div align="center">
 
@@ -48,34 +26,34 @@
 
 ---
 
-# 🕹️ MAIN MENU
+## 🕹️ MAIN MENU
 
 ```text
-[01] PLAYER PROFILE
-[02] SKILL TREE
-[03] AI LAB
-[04] INVENTORY
-[05] MISSIONS
-[06] PROJECTS
-[07] PLAYER STATS
-[08] ACHIEVEMENTS
-[09] CONNECT
+╔══════════════════════════════════════════════╗
+║                MAIN MENU                     ║
+╠══════════════════════════════════════════════╣
+║  [01] PLAYER PROFILE                         ║
+║  [02] SKILL TREE                             ║
+║  [03] AI LAB                                 ║
+║  [04] INVENTORY                              ║
+║  [05] MISSION SELECT                         ║
+║  [06] FEATURED QUESTS                        ║
+║  [07] PLAYER STATS                           ║
+║  [08] ACHIEVEMENTS                           ║
+║  [09] CONNECT                                ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-# 👾 01 · PLAYER PROFILE
+## 👾 01 // PLAYER PROFILE
 
 ```javascript
 const playerOne = {
-
   name: "Facundo Solis",
-
   class: "Full-Stack AI Engineer",
-
-  location: "Spain 🇪🇸",
-
   origin: "Argentina 🇦🇷",
+  base: "Spain 🇪🇸",
 
   mainQuest: "Build products people actually use",
 
@@ -87,85 +65,71 @@ const playerOne = {
     "Mobile Applications"
   ],
 
-  philosophy: "Think → Build → Ship → Learn → Improve"
-
+  mindset: "Think → Build → Ship → Learn → Improve"
 };
 ```
 
-I build **full digital products from idea to production**.
+I build **complete digital products from idea to production**.
 
-My work combines software engineering, artificial intelligence, automation and product development.
-
-I like working across the complete stack:
+My work combines **software engineering, artificial intelligence, automation and product development**. I enjoy owning the whole build path: architecture, frontend, backend, databases, integrations, deployment and iteration.
 
 ```text
-IDEA
-  │
-  ▼
-PRODUCT STRATEGY
-  │
-  ▼
-ARCHITECTURE
-  │
-  ├───────────────┐
-  ▼               ▼
-FRONTEND        BACKEND
-  │               │
-  └───────┬───────┘
-          ▼
-     DATABASES
-          │
-          ▼
-   AI + AUTOMATION
-          │
-          ▼
-      APIs / CLOUD
-          │
-          ▼
-      PRODUCTION 🚀
+                  [ IDEA ]
+                     │
+                     ▼
+              [ ARCHITECTURE ]
+                     │
+           ┌─────────┴─────────┐
+           ▼                   ▼
+      [ FRONTEND ]        [ BACKEND ]
+           │                   │
+           └─────────┬─────────┘
+                     ▼
+               [ DATABASE ]
+                     │
+                     ▼
+            [ AI + AUTOMATION ]
+                     │
+                     ▼
+              [ APIs + CLOUD ]
+                     │
+                     ▼
+              [ PRODUCTION ] 🚀
 ```
 
 ---
 
-# 🌳 02 · SKILL TREE
+## 🌳 02 // SKILL TREE
 
 <div align="center">
 
-### `FRONTEND`
+### `FRONTEND // LVL MAX`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" alt="Frontend skills" />
 
 `React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind`
 
-<br><br>
+<br>
 
-### `BACKEND`
+### `BACKEND // UNLOCKED`
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,php" alt="Backend skills" />
 
-<br><br>
+`Node.js` · `Python` · `PHP` · `REST APIs` · `Backend Architecture`
 
-`Node.js` · `Python` · `PHP` · `REST APIs`
+<br>
 
-<br><br>
+### `DATABASES // UNLOCKED`
 
-### `DATABASES`
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Database skills" />
 
 `PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
 
-<br><br>
+<br>
 
-### `DEVOPS`
+### `DEVOPS // UNLOCKED`
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,vercel" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,vercel" alt="DevOps skills" />
 
 `Docker` · `AWS` · `Git` · `GitHub Actions` · `CI/CD` · `Vercel`
 
@@ -173,80 +137,76 @@ FRONTEND        BACKEND
 
 ---
 
-# 🤖 03 · AI LAB
+## 🤖 03 // AI LAB
 
 ```text
-╔════════════════════════ AI MODULES ════════════════════════╗
-║                                                            ║
-║  [✓] LLM Integrations                                      ║
-║  [✓] AI-powered Applications                               ║
-║  [✓] Intelligent Automation                                ║
-║  [✓] AI Agents                                             ║
-║  [✓] Prompt Engineering                                    ║
-║  [✓] API + Tool Integration                                ║
-║  [✓] AI-assisted SaaS                                      ║
-║  [✓] Intelligent Workflows                                 ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+╔══════════════════════════ AI MODULES ══════════════════════════╗
+║                                                                ║
+║  [✓] LLM integrations                                          ║
+║  [✓] AI-powered applications                                   ║
+║  [✓] AI agents                                                 ║
+║  [✓] Intelligent automation                                    ║
+║  [✓] Prompt engineering                                        ║
+║  [✓] API + tool integration                                    ║
+║  [✓] AI-assisted SaaS                                          ║
+║  [✓] Intelligent workflows                                     ║
+║                                                                ║
+║  SYSTEM STATUS ..................................... OPERATIONAL ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OPENAI-AI_ENGINEERING-00F7FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=080808" />
-
-<img src="https://img.shields.io/badge/LLM-INTEGRATIONS-FF00FF?style=for-the-badge&labelColor=080808" />
-
-<img src="https://img.shields.io/badge/AI-AUTOMATION-39FF14?style=for-the-badge&labelColor=080808" />
-
-<img src="https://img.shields.io/badge/AGENTS-ACTIVE-FFD700?style=for-the-badge&labelColor=080808" />
+<img src="https://img.shields.io/badge/OPENAI-AI_ENGINEERING-00F7FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=070B17" />
+<img src="https://img.shields.io/badge/LLM-INTEGRATIONS-FF00FF?style=for-the-badge&labelColor=070B17" />
+<img src="https://img.shields.io/badge/AI-AUTOMATION-39FF14?style=for-the-badge&labelColor=070B17" />
+<img src="https://img.shields.io/badge/AGENTS-ACTIVE-FFD700?style=for-the-badge&labelColor=070B17" />
 
 </div>
 
-<br>
-
 ```python
-def build_with_ai(idea):
-
+def turn_idea_into_product(idea):
     architecture = design(idea)
 
-    product = develop(
+    product = build(
+        architecture=architecture,
         frontend=True,
         backend=True,
         ai=True,
-        automation=True
+        automation=True,
     )
 
     deploy(product)
+    learn_from_users()
+    iterate()
 
     return "REAL WORLD IMPACT 🚀"
 ```
 
 ---
 
-# 🎒 04 · INVENTORY
+## 🎒 04 // INVENTORY
 
 <table>
 <tr>
+<td width="33%" valign="top">
 
-<td valign="top" width="33%">
-
-### ⚔️ Frontend
+### ⚔️ FRONTEND
 
 ```text
 React
 Next.js
 TypeScript
 JavaScript
-Tailwind
-HTML
-CSS
+Tailwind CSS
+HTML5
+CSS3
 ```
 
 </td>
+<td width="33%" valign="top">
 
-<td valign="top" width="33%">
-
-### 🛡️ Backend
+### 🛡️ BACKEND
 
 ```text
 Node.js
@@ -259,10 +219,9 @@ Architecture
 ```
 
 </td>
+<td width="33%" valign="top">
 
-<td valign="top" width="33%">
-
-### 🧪 Data
+### 🧪 DATA
 
 ```text
 PostgreSQL
@@ -275,12 +234,9 @@ Data Modeling
 ```
 
 </td>
-
 </tr>
-
 <tr>
-
-<td valign="top">
+<td width="33%" valign="top">
 
 ### 🧠 AI
 
@@ -290,14 +246,13 @@ AI Agents
 Automation
 Prompt Engineering
 AI Workflows
-API Integration
+Tool Integration
 ```
 
 </td>
+<td width="33%" valign="top">
 
-<td valign="top">
-
-### ☁️ DevOps
+### ☁️ DEVOPS
 
 ```text
 Docker
@@ -310,10 +265,9 @@ Linux
 ```
 
 </td>
+<td width="33%" valign="top">
 
-<td valign="top">
-
-### 📱 Mobile
+### 📱 MOBILE
 
 ```text
 React Native
@@ -324,301 +278,238 @@ Push Notifications
 ```
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🗺️ 05 · MISSIONS
+## 🗺️ 05 // MISSION SELECT
+
+<img src="./assets/mission-select.svg" width="100%" alt="Mission select" />
+
+<br>
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 🤖 AI PRODUCTS
+### 🤖 AI PRODUCTS
 
-**Difficulty:** ⭐⭐⭐⭐⭐
-
-```text
-████████████████████ 100%
-```
+`████████████████████ 100%`
 
 AI-powered products, assistants, agents, intelligent workflows and LLM integrations.
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🚀 SAAS PLATFORMS
+### 🚀 SAAS PLATFORMS
 
-**Difficulty:** ⭐⭐⭐⭐⭐
+`████████████████████ 100%`
 
-```text
-████████████████████ 100%
-```
-
-Complete SaaS platforms including authentication, dashboards, APIs, subscriptions and infrastructure.
+Complete SaaS products with authentication, dashboards, APIs, subscriptions and infrastructure.
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td valign="top">
+### 🌐 WEB APPLICATIONS
 
-## 🌐 WEB APPLICATIONS
+`████████████████████ 100%`
 
-**Difficulty:** ⭐⭐⭐⭐⭐
-
-```text
-████████████████████ 100%
-```
-
-Modern scalable applications built with React, Next.js and backend APIs.
+Modern, scalable applications with React, Next.js and backend APIs.
 
 </td>
+<td width="50%" valign="top">
 
-<td valign="top">
+### 📱 MOBILE APPLICATIONS
 
-## 📱 MOBILE APPLICATIONS
-
-**Difficulty:** ⭐⭐⭐⭐☆
-
-```text
-████████████████░░░░ 80%
-```
+`██████████████████░░ 90%`
 
 Cross-platform applications using React Native and Expo.
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td valign="top">
+### ⚙️ AUTOMATION
 
-## ⚙️ AUTOMATION
+`████████████████████ 100%`
 
-**Difficulty:** ⭐⭐⭐⭐⭐
-
-```text
-████████████████████ 100%
-```
-
-Automating repetitive processes, integrations and business workflows.
+Automation of repetitive processes, integrations and business workflows.
 
 </td>
+<td width="50%" valign="top">
 
-<td valign="top">
+### 🔌 API INTEGRATIONS
 
-## 🔌 API INTEGRATIONS
+`████████████████████ 100%`
 
-**Difficulty:** ⭐⭐⭐⭐⭐
-
-```text
-████████████████████ 100%
-```
-
-AI providers, payments, third-party APIs and internal systems.
+Payments, AI providers, third-party services and internal systems.
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🚀 06 · PROJECTS
+## 🚀 06 // FEATURED QUESTS
+
+### 🏆 QUEST #001 — DUFIT
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    SELECT YOUR MISSION                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  > AI APPLICATIONS                                           ║
-║    SaaS PRODUCTS                                              ║
-║    MOBILE APPLICATIONS                                       ║
-║    AUTOMATION SYSTEMS                                        ║
-║    BUSINESS PLATFORMS                                        ║
-║                                                              ║
-║                         [ ENTER ]                             ║
+║  QUEST        DUFIT                                          ║
+║  TYPE         SOCIAL FITNESS / MOBILE PRODUCT                ║
+║  ROLE         FOUNDER + FULL-STACK DEVELOPER                 ║
+║  STATUS       LIVE                                           ║
+║  OBJECTIVE    HELP PEOPLE FIND TRAINING PARTNERS             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### 🏆 FEATURED PROJECT · DUFIT
+Dufit is a platform built to help people **find training partners, connect with other athletes and make training more social**.
 
-```text
-TYPE        Mobile / Social Fitness Platform
-ROLE        Founder & Full-Stack Developer
-STATUS      LIVE
-STACK       React Native · Expo · APIs · Backend · AI
-```
-
-A platform designed to help people **find training partners**, connect with other athletes and improve their training experience.
-
-```text
-[ MATCH ATHLETES ]   [ TRAIN ]   [ CONNECT ]   [ IMPROVE ]
-```
-
----
-
-### 🧠 SaaS & AI Development
-
-Development of complete SaaS ecosystems including:
-
-```text
-✓ Authentication
-✓ User management
-✓ Dashboards
-✓ AI integrations
-✓ APIs
-✓ Automation
-✓ Database architecture
-✓ Cloud deployment
-✓ Product iteration
-```
-
----
-
-# 📊 07 · PLAYER STATS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FacundoSolis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoSolis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+`MATCH` → `CONNECT` → `TRAIN` → `IMPROVE`
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FacundoSolis&theme=tokyonight&hide_border=true" />
+### 🧠 QUEST #002 — AI + SAAS SYSTEMS
+
+```text
+AUTHENTICATION       [✓]
+USER MANAGEMENT      [✓]
+DASHBOARDS           [✓]
+AI INTEGRATIONS      [✓]
+APIs                 [✓]
+AUTOMATION           [✓]
+DATABASES            [✓]
+CLOUD DEPLOYMENT     [✓]
+PRODUCT ITERATION    [✓]
+```
+
+I build SaaS ecosystems end-to-end, combining product thinking with full-stack engineering and AI capabilities.
+
+---
+
+## 📊 07 // PLAYER STATS
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=FacundoSolis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoSolis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FacundoSolis&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
-# 🏆 08 · ACHIEVEMENTS
+## 🏆 08 // ACHIEVEMENTS
 
 ```text
-╔════════════════════════ ACHIEVEMENTS ═══════════════════════╗
-║                                                             ║
-║  🏆 FULL STACK BUILDER                                      ║
-║     Build complete products from frontend to infrastructure ║
-║                                                             ║
-║  🧠 AI INTEGRATOR                                           ║
-║     Integrate artificial intelligence into real products    ║
-║                                                             ║
-║  🚀 PRODUCT SHIPPER                                         ║
-║     Move from ideas and prototypes to production            ║
-║                                                             ║
-║  ⚙️ AUTOMATION ENGINEER                                     ║
-║     Remove repetitive tasks through intelligent systems     ║
-║                                                             ║
-║  🌍 REMOTE PLAYER                                           ║
-║     Build digital products from anywhere                    ║
-║                                                             ║
-╚═════════════════════════════════════════════════════════════╝
+╔══════════════════════════ ACHIEVEMENTS ═══════════════════════╗
+║                                                               ║
+║  🏆 FULL-STACK BUILDER                                        ║
+║     Build products from interface to infrastructure           ║
+║                                                               ║
+║  🧠 AI INTEGRATOR                                             ║
+║     Bring AI into real-world products                         ║
+║                                                               ║
+║  🚀 PRODUCT SHIPPER                                           ║
+║     Move from idea and prototype to production                ║
+║                                                               ║
+║  ⚙️ AUTOMATION ENGINEER                                       ║
+║     Replace repetitive work with intelligent systems          ║
+║                                                               ║
+║  🌍 REMOTE PLAYER                                             ║
+║     Build digital products across borders                     ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=FacundoSolis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=FacundoSolis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-# ❤️ PLAYER HEALTH
+## ❤️ PLAYER HEALTH
 
 ```text
 CODE          ████████████████████ 100%
 CURIOSITY     ████████████████████ 100%
 AI            ███████████████████░  95%
 AUTOMATION    ███████████████████░  95%
-COFFEE        ████████████████████ ∞
-SLEEP         ██████████░░░░░░░░░░ ??%
+PRODUCT       ███████████████████░  95%
+COFFEE        ████████████████████  ∞
 ```
 
 ---
 
-# 🧩 CURRENT QUEST
+## 🧩 CURRENT QUEST
 
 ```text
-QUEST:
-Build useful products where
-
-SOFTWARE
-    +
-ARTIFICIAL INTELLIGENCE
-    +
-AUTOMATION
-    +
-PRODUCT THINKING
-
-            ↓
-
-      REAL WORLD IMPACT
+             SOFTWARE ENGINEERING
+                      +
+            ARTIFICIAL INTELLIGENCE
+                      +
+                 AUTOMATION
+                      +
+              PRODUCT THINKING
+                      │
+                      ▼
+             REAL WORLD IMPACT
 ```
+
+> **Current objective:** build useful products where AI is part of the solution, not just the buzzword.
 
 ---
 
-# 📡 09 · CONNECT
+## 📡 09 // CONNECT
 
 <div align="center">
 
-### `MULTIPLAYER MODE AVAILABLE`
+### `MULTIPLAYER MODE // AVAILABLE`
 
 <br>
 
 <a href="https://github.com/FacundoSolis">
-<img src="https://img.shields.io/badge/GITHUB-FacundoSolis-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/facundosolis/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-FacundoSolis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
 
 ```text
-┌─────────────────────────────────────────┐
-│                                         │
-│     HAVE AN IDEA?                       │
-│                                         │
-│     > Let's build it.                   │
-│                                         │
-│                 [ START PROJECT ]       │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+THINK.;%3E+BUILD.;%3E+SHIP.;%3E+IMPROVE.;%3E+REPEAT." />
-
-<br>
-
-### `GAME NEVER OVER`
-
-```text
-while (alive) {
-    learn();
-    build();
-    improve();
-}
+┌───────────────────────────────────────────────┐
+│                                               │
+│  HAVE AN IDEA?                                │
+│                                               │
+│  > LET'S TURN IT INTO A REAL PRODUCT.         │
+│                                               │
+│                     [ START QUEST ]           │
+│                                               │
+└───────────────────────────────────────────────┘
 ```
 
 <br>
 
-**© FACUNDO SOLIS · PLAYER ONE**
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+THINK.;%3E+BUILD.;%3E+SHIP.;%3E+LEARN.;%3E+IMPROVE.;%3E+REPEAT." alt="Build loop" />
+
+<br><br>
+
+<img src="./assets/game-over.svg" width="100%" alt="Game never over" />
+
+<br>
+
+`while (alive) { learn(); build(); improve(); }`
+
+<br>
+
+**© FACUNDO SOLIS // PLAYER ONE**
 
 </div>
