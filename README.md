@@ -4,13 +4,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2600&pause=850&color=00F7FF&center=true&vCenter=true&width=950&lines=%3E+PLAYER+1+CONNECTED...;%3E+FULL-STACK+AI+ENGINEER;%3E+BUILDING+WITH+CODE+%2B+AI;%3E+SAAS+%2F+WEB+%2F+MOBILE+%2F+AUTOMATION;%3E+READY+FOR+THE+NEXT+QUEST%3F" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2600&pause=850&color=00F7FF&center=true&vCenter=true&width=1000&lines=%3E+PLAYER+ONE+LOADED...;%3E+FULL-STACK+AI+ENGINEER;%3E+BUILDING+WITH+CODE+%2B+AI;%3E+WEB+%2F+SAAS+%2F+MOBILE+%2F+AUTOMATION;%3E+READY+FOR+THE+NEXT+QUEST%3F" alt="Typing intro" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/PLAYER-FACUNDO_SOLIS-00F7FF?style=for-the-badge&labelColor=070B17" />
 <img src="https://img.shields.io/badge/CLASS-FULL--STACK_AI_ENGINEER-FF00FF?style=for-the-badge&labelColor=070B17" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=070B17" />
+<img src="https://img.shields.io/badge/REGION-ARGENTINA%20%2F%20SPAIN-FFD700?style=for-the-badge&labelColor=070B17" />
 
 </div>
 
@@ -30,23 +31,32 @@
 
 ```text
 ╔══════════════════════════════════════════════╗
-║                MAIN MENU                     ║
+║                 MAIN MENU                  ║
 ╠══════════════════════════════════════════════╣
-║  [01] PLAYER PROFILE                         ║
-║  [02] SKILL TREE                             ║
-║  [03] AI LAB                                 ║
-║  [04] INVENTORY                              ║
-║  [05] MISSION SELECT                         ║
-║  [06] FEATURED QUESTS                        ║
-║  [07] PLAYER STATS                           ║
-║  [08] ACHIEVEMENTS                           ║
-║  [09] CONNECT                                ║
+║  [01] PLAYER PROFILE                      ║
+║  [02] SKILL TREE                          ║
+║  [03] AI LAB                              ║
+║  [04] INVENTORY                           ║
+║  [05] MISSION SELECT                      ║
+║  [06] FEATURED QUESTS                     ║
+║  [07] PLAYER STATS                        ║
+║  [08] ACHIEVEMENTS                        ║
+║  [09] CONNECT                             ║
 ╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-## 👾 01 // PLAYER PROFILE
+## ⚡ SYSTEM BOOT SEQUENCE
+
+```text
+INITIALIZING PLAYER CORE...
+LOADING ENGINE MODULES...
+CONNECTING AI LAYER...
+SYNCING PRODUCT SYSTEMS...
+DEPLOYING CREATIVE STACK...
+SYSTEM READY: OPERATIONAL
+```
 
 ```javascript
 const playerOne = {
@@ -54,47 +64,43 @@ const playerOne = {
   class: "Full-Stack AI Engineer",
   origin: "Argentina 🇦🇷",
   base: "Spain 🇪🇸",
-
-  mainQuest: "Build products people actually use",
-
-  currentFocus: [
+  mission: "Build products people actually use",
+  focus: [
     "Artificial Intelligence",
     "SaaS",
     "Automation",
     "Web Applications",
     "Mobile Applications"
   ],
-
-  mindset: "Think → Build → Ship → Learn → Improve"
+  mentality: "Think → Build → Ship → Learn → Improve"
 };
 ```
 
-I build **complete digital products from idea to production**.
+I build complete digital products from idea to production.
 
-My work combines **software engineering, artificial intelligence, automation and product development**. I enjoy owning the whole build path: architecture, frontend, backend, databases, integrations, deployment and iteration.
+My work combines software engineering, artificial intelligence, automation and product development. I enjoy owning the full product lifecycle: architecture, frontend, backend, databases, integrations, deployments and iteration.
 
 ```text
                   [ IDEA ]
                      │
                      ▼
-              [ ARCHITECTURE ]
+            [ PRODUCT VISION ]
                      │
-           ┌─────────┴─────────┐
-           ▼                   ▼
-      [ FRONTEND ]        [ BACKEND ]
-           │                   │
-           └─────────┬─────────┘
-                     ▼
-               [ DATABASE ]
-                     │
-                     ▼
-            [ AI + AUTOMATION ]
-                     │
-                     ▼
-              [ APIs + CLOUD ]
-                     │
-                     ▼
-              [ PRODUCTION ] 🚀
+          ┌──────────┴──────────┐
+          ▼                     ▼
+     [ ARCHITECTURE ]       [ RESEARCH ]
+          │                     │
+     ┌────┴────┐           ┌────┴────┐
+     ▼         ▼           ▼         ▼
+ [ FRONTEND ] [ BACKEND ] [ AI + OPS ]
+     │         │           │
+     └────┬────┴───────┬────┘
+          ▼               ▼
+      [ DATABASE ]    [ DEPLOYMENT ]
+          │               │
+          └───────┬───────┘
+                  ▼
+             [ PRODUCTION ] 🚀
 ```
 
 ---
@@ -140,19 +146,19 @@ My work combines **software engineering, artificial intelligence, automation and
 ## 🤖 03 // AI LAB
 
 ```text
-╔══════════════════════════ AI MODULES ══════════════════════════╗
-║                                                                ║
-║  [✓] LLM integrations                                          ║
-║  [✓] AI-powered applications                                   ║
-║  [✓] AI agents                                                 ║
-║  [✓] Intelligent automation                                    ║
-║  [✓] Prompt engineering                                        ║
-║  [✓] API + tool integration                                    ║
-║  [✓] AI-assisted SaaS                                          ║
-║  [✓] Intelligent workflows                                     ║
-║                                                                ║
-║  SYSTEM STATUS ..................................... OPERATIONAL ║
-╚════════════════════════════════════════════════════════════════╝
+╔══════════════════════════ AI MODULES ═══════════════════════════╗
+║                                                               ║
+║  [✓] LLM integrations                                         ║
+║  [✓] AI-powered applications                                  ║
+║  [✓] AI agents                                                ║
+║  [✓] Intelligent automation                                   ║
+║  [✓] Prompt engineering                                       ║
+║  [✓] API + tool integration                                   ║
+║  [✓] AI-assisted SaaS                                         ║
+║  [✓] Intelligent workflows                                    ║
+║                                                               ║
+║  SYSTEM STATUS ................. OPERATIONAL // STABLE        ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -167,7 +173,6 @@ My work combines **software engineering, artificial intelligence, automation and
 ```python
 def turn_idea_into_product(idea):
     architecture = design(idea)
-
     product = build(
         architecture=architecture,
         frontend=True,
@@ -175,11 +180,9 @@ def turn_idea_into_product(idea):
         ai=True,
         automation=True,
     )
-
     deploy(product)
     learn_from_users()
     iterate()
-
     return "REAL WORLD IMPACT 🚀"
 ```
 
@@ -317,7 +320,7 @@ Complete SaaS products with authentication, dashboards, APIs, subscriptions and 
 
 `████████████████████ 100%`
 
-Modern, scalable applications with React, Next.js and backend APIs.
+Modern, scalable applications with React, Next.js and a strong backend layer.
 
 </td>
 <td width="50%" valign="top">
@@ -326,7 +329,7 @@ Modern, scalable applications with React, Next.js and backend APIs.
 
 `██████████████████░░ 90%`
 
-Cross-platform applications using React Native and Expo.
+Cross-platform apps using React Native and Expo, with real product thinking.
 
 </td>
 </tr>
@@ -337,7 +340,7 @@ Cross-platform applications using React Native and Expo.
 
 `████████████████████ 100%`
 
-Automation of repetitive processes, integrations and business workflows.
+Process automation, tool integration and operational workflows with tangible value.
 
 </td>
 <td width="50%" valign="top">
@@ -360,15 +363,15 @@ Payments, AI providers, third-party services and internal systems.
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  QUEST        DUFIT                                          ║
-║  TYPE         SOCIAL FITNESS / MOBILE PRODUCT                ║
-║  ROLE         FOUNDER + FULL-STACK DEVELOPER                 ║
-║  STATUS       LIVE                                           ║
-║  OBJECTIVE    HELP PEOPLE FIND TRAINING PARTNERS             ║
+║  QUEST        DUFIT                                       ║
+║  TYPE         SOCIAL FITNESS / MOBILE PRODUCT             ║
+║  ROLE         FOUNDER + FULL-STACK DEVELOPER              ║
+║  STATUS       LIVE                                        ║
+║  OBJECTIVE    HELP PEOPLE FIND TRAINING PARTNERS          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-Dufit is a platform built to help people **find training partners, connect with other athletes and make training more social**.
+Dufit helps people find training partners, connect with other athletes and make training more social.
 
 `MATCH` → `CONNECT` → `TRAIN` → `IMPROVE`
 
