@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="1" stop-color="#160622"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="420" rx="18" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="1180" height="400" rx="14" fill="none" stroke="#00f7ff" stroke-width="2"/>
+  <text x="600" y="56" text-anchor="middle" fill="#00f7ff" font-family="monospace" font-size="28" font-weight="700" filter="url(#glow)">MISSION SELECT</text>
+  <text x="600" y="84" text-anchor="middle" fill="#9ca3af" font-family="monospace" font-size="14">CHOOSE A BUILD PATH</text>
+  <!-- cards -->
+  <g font-family="monospace">
+    <g transform="translate(45,115)"><rect width="340" height="110" rx="10" fill="#0b1226" stroke="#00f7ff"/><text x="20" y="38" fill="#00f7ff" font-size="20" font-weight="700">01 // AI PRODUCTS</text><text x="20" y="69" fill="#dbeafe" font-size="15">Agents · LLMs · Workflows</text><text x="20" y="94" fill="#39ff14" font-size="13">STATUS: READY</text></g>
+    <g transform="translate(430,115)"><rect width="340" height="110" rx="10" fill="#0b1226" stroke="#ff00ff"/><text x="20" y="38" fill="#ff00ff" font-size="20" font-weight="700">02 // SAAS</text><text x="20" y="69" fill="#dbeafe" font-size="15">Auth · Dashboards · Billing</text><text x="20" y="94" fill="#39ff14" font-size="13">STATUS: READY</text></g>
+    <g transform="translate(815,115)"><rect width="340" height="110" rx="10" fill="#0b1226" stroke="#8b5cf6"/><text x="20" y="38" fill="#a78bfa" font-size="20" font-weight="700">03 // WEB</text><text x="20" y="69" fill="#dbeafe" font-size="15">React · Next.js · APIs</text><text x="20" y="94" fill="#39ff14" font-size="13">STATUS: READY</text></g>
+    <g transform="translate(45,255)"><rect width="340" height="110" rx="10" fill="#0b1226" stroke="#22c55e"/><text x="20" y="38" fill="#4ade80" font-size="20" font-weight="700">04 // MOBILE</text><text x="20" y="69" fill="#dbeafe" font-size="15">React Native · Expo</text><text x="20" y="94" fill="#39ff14" font-size="13">STATUS: READY</text></g>
+    <g transform="translate(430,255)"><rect width="340" height="110" rx="10" fill="#0b1226" stroke="#f59e0b"/><text x="20" y="38" fill="#fbbf24" font-size="20" font-weight="700">05 // AUTOMATION</text><text x="20" y="69" fill="#dbeafe" font-size="15">Systems · Integrations · Ops</text><text x="20" y="94" fill="#39ff14" font-size="13">STATUS: READY</text></g>
+    <g transform="translate(815,255)"><rect width="340" height="110" rx="10" fill="#0b1226" stroke="#ef4444"/><text x="20" y="38" fill="#fb7185" font-size="20" font-weight="700">06 // APIs</text><text x="20" y="69" fill="#dbeafe" font-size="15">Payments · AI · 3rd-party</text><text x="20" y="94" fill="#39ff14" font-size="13">STATUS: READY</text></g>
+  </g>
+</svg>
