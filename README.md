@@ -4,150 +4,53 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2400&pause=750&color=38F8B4&center=true&vCenter=true&width=1000&lines=%3E+FACUNDO+SOLIS+JOINED+THE+SERVER;%3E+FULL-STACK+AI+ENGINEER;%3E+BUILDING+SAAS+%2B+AI+%2B+AUTOMATION;%3E+CLICK+A+BLOCK+TO+OPEN+THE+INVENTORY" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2200&pause=700&color=38F8B4&center=true&vCenter=true&width=760&lines=%3E+FACUNDO+SOLIS+JOINED+THE+SERVER;%3E+FULL-STACK+AI+ENGINEER;%3E+SAAS+%2B+AI+%2B+AUTOMATION;%3E+BUILD.+SHIP.+IMPROVE." alt="Typing intro" />
 
-</div>
+<br><br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/PLAYER-FACUNDO_SOLIS-f5c542?style=for-the-badge&labelColor=1e2721" alt="Player Facundo Solis" />
+<img src="https://img.shields.io/badge/CLASS-FULL_STACK_AI_ENGINEER-38f8b4?style=for-the-badge&labelColor=1e2721" alt="Full Stack AI Engineer" />
+<img src="https://img.shields.io/badge/MODE-BUILDING_PRODUCTS-7cf7ff?style=for-the-badge&labelColor=1e2721" alt="Building products" />
 
-<details open>
-<summary><b>PLAYER BLOCK</b></summary>
+<br><br>
 
-```text
-NAME      Facundo Solis
-CLASS     Full-Stack AI Engineer
-SPAWN     Argentina
-BASE      Spain
-QUEST     Build products people actually use
-LOOP      Think -> Build -> Ship -> Learn -> Improve
-```
+<img src="https://img.shields.io/badge/ChatGPT-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/AI_Agents-Workflows-8d4cff?style=for-the-badge&labelColor=1e2721" alt="AI Agents" />
+<img src="https://img.shields.io/badge/Automation-Systems-f5c542?style=for-the-badge&labelColor=1e2721" alt="Automation" />
 
-I build complete digital products from idea to production: architecture, frontend, backend, databases, integrations, AI, automation, deployment and iteration.
+<br><br>
 
-</details>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,php,postgres,mysql,mongodb,redis,docker,aws,git,github,githubactions,vercel" width="720" alt="Tech stack icons" />
 
-</td>
-<td width="50%" valign="top">
+<br><br>
 
-<details open>
-<summary><b>HOTBAR</b></summary>
+<img src="https://img.shields.io/badge/FRONTEND-React_/_Next.js_/_TypeScript-38f8b4?style=for-the-badge&labelColor=1e2721" alt="Frontend" />
+<img src="https://img.shields.io/badge/BACKEND-Node_/_Python_/_PHP-f5c542?style=for-the-badge&labelColor=1e2721" alt="Backend" />
+<img src="https://img.shields.io/badge/API-REST_/_Integrations-ff7a59?style=for-the-badge&labelColor=1e2721" alt="API" />
+<img src="https://img.shields.io/badge/DATA-PostgreSQL_/_MySQL_/_MongoDB-7cf7ff?style=for-the-badge&labelColor=1e2721" alt="Data" />
+<img src="https://img.shields.io/badge/MOBILE-React_Native_/_Expo-f7a8ff?style=for-the-badge&labelColor=1e2721" alt="Mobile" />
+<img src="https://img.shields.io/badge/DEVOPS-Docker_/_AWS_/_Vercel-b9f27d?style=for-the-badge&labelColor=1e2721" alt="DevOps" />
 
-| Slot | Item | Use |
-|---|---|---|
-| 01 | React / Next.js | Interfaces and product flows |
-| 02 | Node / Python / PHP | APIs, services and backend logic |
-| 03 | PostgreSQL / MySQL / MongoDB | Data models and persistence |
-| 04 | OpenAI / LLMs / Agents | AI features and intelligent workflows |
-| 05 | Docker / AWS / Vercel | Deployment, CI/CD and production ops |
+<br><br>
 
-</details>
+<img src="https://img.shields.io/badge/GUIDE-THINK-ecf4df?style=for-the-badge&labelColor=1e2721" alt="Think" />
+<img src="https://img.shields.io/badge/GUIDE-BUILD-ecf4df?style=for-the-badge&labelColor=1e2721" alt="Build" />
+<img src="https://img.shields.io/badge/GUIDE-SHIP-ecf4df?style=for-the-badge&labelColor=1e2721" alt="Ship" />
+<img src="https://img.shields.io/badge/GUIDE-LEARN-ecf4df?style=for-the-badge&labelColor=1e2721" alt="Learn" />
+<img src="https://img.shields.io/badge/GUIDE-IMPROVE-ecf4df?style=for-the-badge&labelColor=1e2721" alt="Improve" />
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br><br>
 
-<details>
-<summary><b>OPEN CHEST: SKILL TREE</b></summary>
+<img src="https://img.shields.io/badge/QUEST-DUFIT-f5c542?style=for-the-badge&labelColor=1e2721" alt="Dufit" />
+<img src="https://img.shields.io/badge/TYPE-SOCIAL_FITNESS_APP-38f8b4?style=for-the-badge&labelColor=1e2721" alt="Social fitness app" />
+<img src="https://img.shields.io/badge/ROLE-FOUNDER_+_FULL_STACK_DEV-7cf7ff?style=for-the-badge&labelColor=1e2721" alt="Founder and Full Stack Developer" />
+<img src="https://img.shields.io/badge/STATUS-LIVE-b9f27d?style=for-the-badge&labelColor=1e2721" alt="Live" />
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,python,php,postgres,mysql,mongodb,redis,docker,aws,git,github,githubactions,vercel" alt="Skill icons" />
-
-</div>
-
-```text
-FRONTEND      React · Next.js · TypeScript · Tailwind
-BACKEND       Node.js · Python · PHP · REST APIs
-DATA          PostgreSQL · MySQL · MongoDB · Redis
-AI            LLM integrations · Agents · Automation · Workflows
-MOBILE        React Native · Expo · Cross-platform apps
-DEVOPS        Docker · AWS · GitHub Actions · Vercel
-```
-
-</details>
-
-</td>
-<td width="50%" valign="top">
-
-<details>
-<summary><b>ENTER PORTAL: MISSIONS</b></summary>
-
-| Mission | Status | Objective |
-|---|---:|---|
-| AI Products | 100% | Assistants, agents, LLM apps and tool integrations |
-| SaaS Platforms | 100% | Auth, dashboards, APIs, subscriptions and infrastructure |
-| Web Apps | 100% | Modern product interfaces with scalable backend systems |
-| Mobile Apps | 90% | React Native / Expo apps connected to real product flows |
-| Automation | 100% | Repetitive work replaced with useful systems |
-| API Integrations | 100% | Payments, AI providers, internal tools and third-party services |
-
-</details>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<details>
-<summary><b>CRAFTING TABLE: FEATURED QUEST</b></summary>
-
-```text
-QUEST      DUFIT
-TYPE       Social fitness / mobile product
-ROLE       Founder + Full-stack developer
-STATUS     Live
-OBJECTIVE  Help people find training partners
-```
-
-`MATCH` -> `CONNECT` -> `TRAIN` -> `IMPROVE`
-
-Dufit helps people connect with other athletes and make training more social.
-
-</details>
-
-</td>
-<td width="50%" valign="top">
-
-<details>
-<summary><b>REDSTONE LAB: AI + AUTOMATION</b></summary>
-
-```python
-def build_real_product(idea):
-    architecture = design(idea)
-    product = build(
-        frontend=True,
-        backend=True,
-        data=True,
-        ai=True,
-        automation=True,
-    )
-    deploy(product)
-    learn_from_users()
-    iterate()
-    return "real-world impact"
-```
-
-</details>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+<br><br>
 
 <a href="https://github.com/FacundoSolis">
   <img src="https://img.shields.io/badge/GITHUB-FacundoSolis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/MULTIPLAYER-AVAILABLE-38F8B4?style=for-the-badge&labelColor=1E2721" alt="Multiplayer available" />
-<img src="https://img.shields.io/badge/CURRENT_QUEST-AI_PRODUCT_BUILDER-F5C542?style=for-the-badge&labelColor=1E2721" alt="Current quest" />
-
-<br><br>
-
-```text
-while (alive) { learn(); build(); improve(); }
-```
 
 </div>

@@ -128,13 +128,14 @@
     <rect x="820" y="564" width="76" height="52" fill="#314735" stroke="#ecf4df" stroke-width="4"/>
     <rect x="910" y="564" width="76" height="52" fill="#314735" stroke="#ecf4df" stroke-width="4"/>
     <rect x="1000" y="564" width="76" height="52" fill="#314735" stroke="#ecf4df" stroke-width="4"/>
-    <text x="318" y="598" text-anchor="middle" fill="#38f8b4" class="mono" font-size="17">AI</text>
-    <text x="408" y="598" text-anchor="middle" fill="#f5c542" class="mono" font-size="17">WEB</text>
+    <text x="318" y="590" text-anchor="middle" fill="#38f8b4" class="mono" font-size="13">CHAT</text>
+    <text x="318" y="606" text-anchor="middle" fill="#38f8b4" class="mono" font-size="13">GPT</text>
+    <text x="408" y="598" text-anchor="middle" fill="#f5c542" class="mono" font-size="15">CLAUDE</text>
     <text x="498" y="598" text-anchor="middle" fill="#ff7a59" class="mono" font-size="17">API</text>
-    <text x="588" y="598" text-anchor="middle" fill="#7cf7ff" class="mono" font-size="17">DB</text>
-    <text x="678" y="598" text-anchor="middle" fill="#b9f27d" class="mono" font-size="17">OPS</text>
+    <text x="588" y="598" text-anchor="middle" fill="#7cf7ff" class="mono" font-size="17">WEB</text>
+    <text x="678" y="598" text-anchor="middle" fill="#b9f27d" class="mono" font-size="17">DB</text>
     <text x="768" y="598" text-anchor="middle" fill="#f7a8ff" class="mono" font-size="17">APP</text>
-    <text x="858" y="598" text-anchor="middle" fill="#d6e4ff" class="mono" font-size="17">UX</text>
+    <text x="858" y="598" text-anchor="middle" fill="#d6e4ff" class="mono" font-size="17">OPS</text>
     <text x="948" y="598" text-anchor="middle" fill="#ffd66b" class="mono" font-size="17">SaaS</text>
     <text x="1038" y="598" text-anchor="middle" fill="#ecf4df" class="mono" font-size="17">GIT</text>
   </g>
@@ -142,8 +143,8 @@
   <g filter="url(#shadow)">
     <rect x="910" y="88" width="390" height="128" fill="#1e2721"/>
     <rect x="924" y="102" width="362" height="100" fill="#26372c"/>
-    <text x="950" y="140" fill="#38f8b4" class="mono" font-size="22">CLICK BLOCKS BELOW</text>
-    <text x="950" y="174" fill="#ecf4df" class="small" font-size="19">Open chests, portals and</text>
-    <text x="950" y="198" fill="#ecf4df" class="small" font-size="19">missions inside the README.</text>
+    <text x="950" y="140" fill="#38f8b4" class="mono" font-size="22">GAME GUIDE</text>
+    <text x="950" y="174" fill="#ecf4df" class="small" font-size="19">ChatGPT + Claude + code</text>
+    <text x="950" y="198" fill="#ecf4df" class="small" font-size="19">to ship useful products.</text>
   </g>
 </svg>
