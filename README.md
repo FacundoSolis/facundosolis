@@ -21,16 +21,33 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,php,postgres,mysql,mongodb,redis,docker,aws,git,github,githubactions,vercel" width="720" alt="Tech stack icons" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1800&pause=500&color=F5C542&center=true&vCenter=true&width=640&lines=%5B+INVENTORY+UNLOCKED+%5D;%5B+STACK+CRAFTING+TABLE+%5D" alt="Inventory unlocked" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FRONTEND-React_/_Next.js_/_TypeScript-38f8b4?style=for-the-badge&labelColor=1e2721" alt="Frontend" />
-<img src="https://img.shields.io/badge/BACKEND-Node_/_Python_/_PHP-f5c542?style=for-the-badge&labelColor=1e2721" alt="Backend" />
-<img src="https://img.shields.io/badge/API-REST_/_Integrations-ff7a59?style=for-the-badge&labelColor=1e2721" alt="API" />
-<img src="https://img.shields.io/badge/DATA-PostgreSQL_/_MySQL_/_MongoDB-7cf7ff?style=for-the-badge&labelColor=1e2721" alt="Data" />
-<img src="https://img.shields.io/badge/MOBILE-React_Native_/_Expo-f7a8ff?style=for-the-badge&labelColor=1e2721" alt="Mobile" />
-<img src="https://img.shields.io/badge/DEVOPS-Docker_/_AWS_/_Vercel-b9f27d?style=for-the-badge&labelColor=1e2721" alt="DevOps" />
+<img src="https://img.shields.io/badge/FRONTEND_BLOCK-React_/_Next.js_/_TypeScript-38f8b4?style=for-the-badge&labelColor=1e2721" alt="Frontend block" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,bootstrap,sass" width="560" alt="Frontend icons" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BACKEND_BLOCK-Node_/_Python_/_PHP_/_Laravel-f5c542?style=for-the-badge&labelColor=1e2721" alt="Backend block" />
+<img src="https://img.shields.io/badge/API_BLOCK-REST_/_GraphQL_/_Integrations-ff7a59?style=for-the-badge&labelColor=1e2721" alt="API block" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php,laravel,graphql,prisma,postgres,redis" width="560" alt="Backend and data icons" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MOBILE_BLOCK-React_Native_/_Expo-f7a8ff?style=for-the-badge&labelColor=1e2721" alt="Mobile block" />
+<img src="https://img.shields.io/badge/CLOUD_BLOCK-Supabase_/_Firebase_/_AWS_/_Vercel-b9f27d?style=for-the-badge&labelColor=1e2721" alt="Cloud block" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,expo,supabase,firebase,docker,aws,vercel,githubactions,git,github" width="560" alt="Mobile cloud and DevOps icons" />
 
 <br><br>
 
